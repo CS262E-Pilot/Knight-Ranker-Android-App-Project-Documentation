@@ -1,3 +1,3 @@
-# knight-rank-project-documentation
+# Knight Rank Project Documentation
 
 The Knight Rank application is a platform where Calvin students can connect with and compete against other students who have similar interests in competitive activities. By connecting students with shared interests, Knight Rank encourages growth in a competitive community, using the world-respected Elo rating system to accurately rank competitors. Knight Rank allows students to improve their skills by challenging other students of similar or higher rank in any sport. Unlike other ranking systems, Knight Rank will be localized to Calvin, optimizing the growth of intracollegiate competitive communities. Our product provides a way for students to compete and accurately compare themselves with their peers, and seek out new, more talented opponents to continue improving their skills.
